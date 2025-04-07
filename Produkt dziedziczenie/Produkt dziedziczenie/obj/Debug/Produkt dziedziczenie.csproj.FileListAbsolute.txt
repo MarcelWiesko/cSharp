@@ -1,0 +1,7 @@
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\obj\Debug\Produkt dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\obj\Debug\Produkt dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\bin\Debug\Produkt dziedziczenie.exe.config
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\bin\Debug\Produkt dziedziczenie.exe
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\bin\Debug\Produkt dziedziczenie.pdb
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\obj\Debug\Produkt dziedziczenie.exe
+C:\Users\marce\source\repos\Produkt dziedziczenie\Produkt dziedziczenie\obj\Debug\Produkt dziedziczenie.pdb

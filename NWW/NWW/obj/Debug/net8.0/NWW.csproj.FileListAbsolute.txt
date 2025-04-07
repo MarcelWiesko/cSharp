@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\NWW\NWW\bin\Debug\net8.0\NWW.exe
+C:\Users\marce\source\repos\NWW\NWW\bin\Debug\net8.0\NWW.deps.json
+C:\Users\marce\source\repos\NWW\NWW\bin\Debug\net8.0\NWW.runtimeconfig.json
+C:\Users\marce\source\repos\NWW\NWW\bin\Debug\net8.0\NWW.dll
+C:\Users\marce\source\repos\NWW\NWW\bin\Debug\net8.0\NWW.pdb
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.AssemblyInfo.cs
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.dll
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\refint\NWW.dll
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.pdb
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\NWW.genruntimeconfig.cache
+C:\Users\marce\source\repos\NWW\NWW\obj\Debug\net8.0\ref\NWW.dll
