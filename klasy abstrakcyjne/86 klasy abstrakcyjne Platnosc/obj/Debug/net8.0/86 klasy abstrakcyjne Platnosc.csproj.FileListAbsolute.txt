@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\bin\Debug\net8.0\86 klasy abstrakcyjne Platnosc.exe
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\bin\Debug\net8.0\86 klasy abstrakcyjne Platnosc.deps.json
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\bin\Debug\net8.0\86 klasy abstrakcyjne Platnosc.runtimeconfig.json
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\bin\Debug\net8.0\86 klasy abstrakcyjne Platnosc.dll
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\bin\Debug\net8.0\86 klasy abstrakcyjne Platnosc.pdb
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.AssemblyInfo.cs
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.dll
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\refint\86 klasy abstrakcyjne Platnosc.dll
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.pdb
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\86 klasy abstrakcyjne Platnosc.genruntimeconfig.cache
+C:\Users\marce\source\repos\86 klasy abstrakcyjne Platnosc\86 klasy abstrakcyjne Platnosc\obj\Debug\net8.0\ref\86 klasy abstrakcyjne Platnosc.dll

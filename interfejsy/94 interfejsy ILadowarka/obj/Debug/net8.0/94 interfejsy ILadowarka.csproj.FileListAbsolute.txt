@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\bin\Debug\net8.0\94 interfejsy ILadowarka.exe
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\bin\Debug\net8.0\94 interfejsy ILadowarka.deps.json
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\bin\Debug\net8.0\94 interfejsy ILadowarka.runtimeconfig.json
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\bin\Debug\net8.0\94 interfejsy ILadowarka.dll
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\bin\Debug\net8.0\94 interfejsy ILadowarka.pdb
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.AssemblyInfo.cs
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.dll
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\refint\94 interfejsy ILadowarka.dll
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.pdb
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\94 interfejsy ILadowarka.genruntimeconfig.cache
+C:\Users\marce\source\repos\94 interfejsy ILadowarka\94 interfejsy ILadowarka\obj\Debug\net8.0\ref\94 interfejsy ILadowarka.dll

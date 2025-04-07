@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "86 klasy abstrakcyjne Platnosc/1.0.0": {
+        "runtime": {
+          "86 klasy abstrakcyjne Platnosc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "86 klasy abstrakcyjne Platnosc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
